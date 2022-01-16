@@ -1,9 +1,13 @@
 # MacOS Web Development Setup
 
 #Install Romanian Programmers Keyboard
-```curl --silent --location --max-redirs 10 https://raw.githubusercontent.com/SaltwaterC/romanian-programmers-mac/master/install.sh --output "/tmp/rpm-install.sh" && bash "/tmp/rpm-install.sh" && rm -f "/tmp/rpm-install.sh"```
+```
+curl --silent --location --max-redirs 10 https://raw.githubusercontent.com/SaltwaterC/romanian-programmers-mac/master/install.sh --output "/tmp/rpm-install.sh" && bash "/tmp/rpm-install.sh" && rm -f "/tmp/rpm-install.sh"
+```
 
-```xcode-select --install```
+```
+xcode-select --install
+```
 
 #Install Brew
 ```
