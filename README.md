@@ -6,11 +6,14 @@
 ```xcode-select --install```
 
 #Install Brew
-```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew update```
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew update
+```
 
 #Install Software Packages
-```brew install --cask prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle alfred insomnia skype whatsapp telegram microsoft-office teamviewer anydesk istat-menus sequel-pro day-o discord poedit spotify
+```
+brew install --cask prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle alfred insomnia skype whatsapp telegram microsoft-office teamviewer anydesk istat-menus sequel-pro day-o discord poedit spotify
 
 brew install node composer wget 
 ```
