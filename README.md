@@ -24,4 +24,4 @@ Make a ~/.gitignore_global file. For an example, here is mine:
 .DS_Store     # Mac-specific
 ```
 And now add that to your global git config:
-`git config --global core.excludesfile '~/.gitignore_global'`
+```git config --global core.excludesfile '~/.gitignore_global'```
