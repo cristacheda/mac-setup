@@ -31,3 +31,6 @@ brew install node composer wget
 ```
 And now add that to your global git config:
 ```git config --global core.excludesfile '~/.gitignore_global'```
+
+Dock show animation no delay
+```defaults write com.apple.dock autohide-delay -float 0; killall Dock```
