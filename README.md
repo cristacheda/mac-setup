@@ -17,9 +17,9 @@ brew update
 
 ### Install Software Packages
 ```
-brew install --cask notunes plex synology-drive raspberry-pi-imager tableplus cursr prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle alfred insomnia skype whatsapp telegram microsoft-office teamviewer anydesk istat-menus sequel-pro day-o discord poedit spotify karabiner-elements
+brew install --cask tunnelbear appcleaner openvpn-connect redis-insight applepi-baker antigravity scroll-reverser monitorcontrol raycast notunes plex synology-drive raspberry-pi-imager tableplus prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle insomnia whatsapp telegram microsoft-office teamviewer anydesk istat-menus sequel-pro discord poedit karabiner-elements iterm2
 
-brew install node composer wget 
+brew install node composer wget docker
 ```
 
 ## Make a ~/.gitignore_global file. For an example, here is mine:
@@ -34,3 +34,10 @@ And now add that to your global git config:
 
 Dock show animation no delay
 ```defaults write com.apple.dock autohide-delay -float 0; killall Dock```
+
+https://apps.apple.com/us/app/mutekey/id1509590766?mt=12
+https://filezilla-project.org/download.php?platform=macos-arm64
+https://docs.docker.com/desktop/setup/install/mac-install/
+fontawesome pro subsetter
+https://briankendall.net/presButan/index.htm
+https://itunes.apple.com/us/app/wireguard/id1451685025?ls=1&mt=12
