@@ -17,7 +17,7 @@ brew update
 
 ### Install Software Packages
 ```
-brew install --cask logitune vlc microsoft-edge tunnelbear appcleaner openvpn-connect antigravity monitorcontrol raycast notunes plex synology-drive raspberry-pi-imager tableplus prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle insomnia whatsapp telegram microsoft-office teamviewer anydesk brew stats sequel-pro discord poedit karabiner-elements iterm2 linearmouse
+brew install --cask logitune vlc microsoft-edge tunnelbear appcleaner openvpn-connect antigravity monitorcontrol raycast notunes plex synology-drive raspberry-pi-imager tableplus prepros github visual-studio-code google-chrome firefox local adobe-creative-cloud cyberduck keka kekaexternalhelper imageoptim rectangle insomnia whatsapp telegram microsoft-office teamviewer anydesk brew stats sequel-ace discord poedit karabiner-elements iterm2 linearmouse tailscale-app scroll-reverser logi-options+ google-chrome@canary figma codex-app claude
 
 brew install node composer wget docker
 ```
